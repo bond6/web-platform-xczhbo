@@ -1,0 +1,27 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Citrus MRL",
+  "short_name": "Citrus MRL",
+  "version": "io.nardus.ica_citrus_mrl",
+  "description": "ICA citrus post-harvest fungicide choices for different export markets.",
+  "author": "Nardus Serfontein",
+  "icons": [
+    {
+      "src": "img/logo1_1.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "img/logo.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    }
+  ],
+  "start_url": "index.html"
+  "display": "browser",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "url": "http://htmlpreview.github.io/?https://github.com/bond6/oplaai_app/blob/master/index.html"
+}

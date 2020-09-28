@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-versionCode="19000" id="io.nardus.ica_citrus_mrl" version="2.000" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <icon height="1024" src="img/logo1_1.png" width="1024" />
+    <icon density="mdpi" height="57" platform="android" src="img/logo.png" width="57" />
+    <name>Citrus MRL</name>
+    <description>
+        ICA citrus post-harvest fungicide choices for different export markets.
+    </description>
+    <author email="serfonteinnardus@gmail.com">
+        Nardus Serfontein
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <preference name="phonegap-version" value="cli-9.0.0" />
+</widget>
